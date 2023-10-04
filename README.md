@@ -1,2 +1,3 @@
 # databricks-tmm-demos
-## This is going to be a working space for demos being used by TMM
+## This repo contains the Data Science / Machine Learning Workshop typically ran by Tech marketing.
+## For any questions reach out to Nicolas.Pelaez@databricks.com
